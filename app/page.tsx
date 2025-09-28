@@ -20,7 +20,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-border py-8 px-4">
         <div className="max-w-6xl mx-auto text-center">
-          <p className="text-muted-foreground font-mono text-sm">{"© 2025 Min Htet Naing"}</p>
+          <p className="text-muted-foreground font-mono text-sm">{"© 2025 Min Htet Naing(MTN)"}</p>
           <p className="text-muted-foreground font-mono text-xs mt-2">
             <span className="text-accent">{">"}</span> {"Securing the digital world, one vulnerability at a time."}
           </p>

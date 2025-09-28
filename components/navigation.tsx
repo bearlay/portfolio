@@ -20,7 +20,7 @@ export function Navigation() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center gap-2">
             <Terminal className="w-6 h-6 text-primary" />
-            <span className="font-mono text-lg font-bold text-primary">mhn@cybersec</span>
+            <span className="font-mono text-lg font-bold text-primary">mtn@cybersec</span>
           </div>
 
           {/* Desktop Navigation */}

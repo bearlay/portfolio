@@ -7,7 +7,7 @@ import "./globals.css"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "Min Htet Naing - Cybersecurity Professional",
+  title: "Min Htet Naing(MTN) - Cybersecurity Professional",
   description:
     "Application Security Engineer & Penetration Tester specializing in web, mobile, and infrastructure security",
   generator: "v0.app",

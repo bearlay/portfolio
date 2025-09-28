@@ -25,7 +25,7 @@ export function HeroSection() {
 
           <div className="space-y-4">
             <h1 className="text-4xl md:text-6xl font-bold text-balance">
-              <span className="text-foreground">Min Htet Naing</span>
+              <span className="text-foreground">Min Htet Naing(MTN)</span>
             </h1>
 
             <div className="text-xl md:text-2xl text-primary font-mono">
@@ -78,7 +78,7 @@ export function HeroSection() {
               </div>
               <div className="ml-4">
                 <span className="text-primary">{'"name"'}</span>:{" "}
-                <span className="text-accent">{'"Min Htet Naing"'}</span>,
+                <span className="text-accent">{'"Min Htet Naing(MTN)"'}</span>,
               </div>
               <div className="ml-4">
                 <span className="text-primary">{'"role"'}</span>:{" "}

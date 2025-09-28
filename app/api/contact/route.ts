@@ -27,7 +27,7 @@ Message:
 ${message}
 
 ---
-Sent from Min Htet Naing's Portfolio Website
+Sent from Min Htet Naing(MTN)'s Portfolio Website
     `.trim()
 
     // For now, we'll simulate sending an email
